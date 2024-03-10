@@ -1,5 +1,5 @@
 
-<h1 align="center" style="margin-top: 0px;">👋 Hey, c’est Felzow47 ici.</h1>
+<h1 align="center" style="margin-top: 0px;">👋 Hey there, c’est Felzow47 ici.</h1>
 
 * 🌱 Je suis un autodidacte qui a plongé dans le monde de l’informatique il y a près de 10 ans.
 * 🎮 Je suis un grand fan de hardware, et je ne suis pas contre un peu de programmation, tant que ça fonctionne correctement sans ces bugs inconnus d’internet qui surgissent de nulle part. :wink:
@@ -31,8 +31,19 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+<!--![!RgbLine](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) ![RgbLine](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)-->
+<h2 align="center" style="margin-top: 0px;"> </h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
+![Chromedino](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 <!--
 **Felzow47/Felzow47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
