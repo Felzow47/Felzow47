@@ -54,6 +54,11 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)--> 
 <!--![!RgbLine](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) ![RgbLine](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)-->
 <h2 align="center" style="margin-top: 0px;"> </h2>
+<p align="center">
+    <img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-9900k/64gb/nvidia-geforce-rtx-2070/forum.png"></a>
+</p>
+
+
 <br>
 <br>
 <br>
