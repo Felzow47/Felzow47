@@ -5,7 +5,7 @@
 * 🎮 Je suis un grand fan de hardware, et je ne suis pas contre un peu de programmation, tant que ça fonctionne correctement sans ces bugs inconnus d’internet qui surgissent de nulle part. :wink:
 * 💻 Depuis trois ans, je m’essaie à deux nouveau domaines totalement différents : le développement d’applications mobiles et la création de bots Discord et pas mal de script python pour me simplifier la vie ! C’est un peu comme essayer de résoudre un Rubik’s Cube tout en jonglant…avec d’autres Rubik’s Cubes. :sweat_smile:
 * 🎯 Le code pour moi c’est un parcours semé de bugs et de StackOverflow, mais chaque ligne de code me rapproche de la victoire.
-* 🏗️ J’ai toujours une tonne de projets en cours, tous différents et passionnants. Ils ne sont pas tous liés au codage, Certains projets tirent parti de Gimp, Blender, Illustrator. Et oui, ils peuvent parfois être un peu frustrants. :sweat_smile:
+* 🏗️ J’ai toujours une tonne de projets en cours, tous différents et passionnants. Ils ne sont pas tous liés au codage, Certains projets tirent parti de Gimp, Blender, Inkscape. Et oui, ils peuvent parfois être un peu frustrants. :sweat_smile:
 * 🕹️ Quand je ne suis pas absorbé par mes projets ou en train d’acquérir de nouvelles compétences, je me retrouve souvent à jouer à mes jeux vidéo préférés. 
 <h2 align="center" style="margin-top: 0px;">⚙️ Les systèmes d’exploitation avec lesquels je travaille couramment</h2>
 <!--
