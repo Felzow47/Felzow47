@@ -1,102 +1,91 @@
+<h1 align="center">Felzow47</h1>
+<p align="center">
+  <sub>code · 3D · hardware · bots · scripts · « ça marchait hier »</sub>
+</p>
 
-<h1 align="center" style="margin-top: 0px;">👋 Hey there, c’est Felzow47 ici.</h1>
+<br>
 
-* 🌱 Je suis un autodidacte qui a plongé dans le monde de l’informatique il y a près de 10 ans.
-* 🎮 Je suis un grand fan de hardware, et je ne suis pas contre un peu de programmation, tant que ça fonctionne correctement sans ces bugs inconnus d’internet qui surgissent de nulle part. :wink:
-* 💻 Depuis trois ans, je m’essaie à deux nouveau domaines totalement différents : le développement d’applications mobiles et la création de bots Discord et pas mal de script python pour me simplifier la vie ! C’est un peu comme essayer de résoudre un Rubik’s Cube tout en jonglant…avec d’autres Rubik’s Cubes. :sweat_smile:
-* 🎯 Le code pour moi c’est un parcours semé de bugs et de StackOverflow, mais chaque ligne de code me rapproche de la victoire.
-* 🏗️ J’ai toujours une tonne de projets en cours, tous différents et passionnants. Ils ne sont pas tous liés au codage, Certains projets tirent parti de Gimp, Blender, Inkscape. Et oui, ils peuvent parfois être un peu frustrants. :sweat_smile:
-* 🕹️ Quand je ne suis pas absorbé par mes projets ou en train d’acquérir de nouvelles compétences, je me retrouve souvent à jouer à mes jeux vidéo préférés. 
-<h2 align="center" style="margin-top: 0px;">⚙️ Les systèmes d’exploitation avec lesquels je travaille couramment</h2>
-<!--
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) --> 
+> Autodidacte depuis une dizaine d'années.  
+> Je ne me spécialise pas vraiment — je **touche à tout** jusqu'à ce que ça tienne debout.
+
+---
+
+## Ce sur quoi je passe le plus de temps
+
+### Yibify — stats YouTube Music
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
+  <a href="https://yibify.app">
+    <img src="readme-brand.svg" width="220" alt="Yibify" />
+  </a>
 </p>
-<h2 align="center" style="margin-top: 0px;">⚒ Les logiciels que j’utilise régulièrement</h2>
 
-<!--
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)	
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)-->
+Projet solo que je développe et maintiens. Une expérience type stats.fm, mais pour **YouTube Music** : dashboard web, historique d'écoutes, heatmaps, tops, **Yibify Wrapped**, import Takeout.
+
+- API et scrobbler **Windows** (Electron, SMTC) — relativement avancés
+- Site web et app **Android** (Kotlin / Compose) — encore en chantier, MVP scrobble
+- Stack : `Node.js · Next.js · PostgreSQL · Electron · Kotlin`
+
+→ [yibify.app](https://yibify.app) · alpha publique ouverte
+
+---
+
+### Île-de-France Map
 
 <p align="center">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
-    <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/inkscape-%23000000.svg?style=for-the-badge&logo=inkscape&logoColor=white">
-    
+  <a href="https://idf-map.fr">
+    <img src="idf_logo.png" width="280" alt="Île-de-France Map" />
+  </a>
 </p>
-<h2 align="center" style="margin-top: 0px;">📄 Les langages de programmation que je titube en essayant de maîtriser </h2>
+
+Gros projet collaboratif autour d'une carte **Île-de-France** pour Euro Truck Simulator 2.  
+**Développeur**, **modérateur** et **animateur** depuis 3 ans.
+
+- **Installateur Windows** — assistant one-click (Python / CustomTkinter), 12 langues, build PyInstaller
+- **Infra & hébergement** — serveurs convois, panel PHP, bot Discord / WebSocket Node.js
+- **Modélisation 3D** — assets in-game (radars français, etc.)
+
+→ [Mon profil contributeur](https://idf-map.fr/credits?profil=491692233498689536) · [idf-map.fr](https://idf-map.fr)
+
+---
+
+## Le reste du gloubilboulga
+
+Entre deux déploiements et trois `git push` ratés, tu me trouveras souvent en train de :
+
+- bricoler du **Python** pour automatiser ce qui m'énerve
+- coder des **bots Discord** et des petits outils perso
+- m'essayer au **mobile** (Kotlin / Android)
+- modéliser ou retoucher des trucs dans **Blender**, **Gimp**, **Inkscape**
+- bidouiller du **hardware** et mon setup PC
+- débugger un **nginx** à une heure où personne ne devrait être éveillé
+- jouer quand mon cerveau refuse d'ingérer une doc de plus
+
+Le fil rouge : j'aime **construire des trucs complets** — pas juste écrire 50 lignes et passer à autre chose.
+
+<p align="left">
+  <a href="https://github.com/Felzow47/StarlinkStats">
+    <img src="Vector.svg" width="48" height="48" alt="Starlink Widget" align="left" style="margin-right: 12px;" />
+  </a>
+  <strong><a href="https://github.com/Felzow47/StarlinkStats">StarlinkStats</a></strong> — widget bureau always-on-top (Python / PyQt6) qui affiche l'état de l'antenne en temps réel via gRPC local.
+</p>
+
+<br>
+
+Scripts perso à côté : mailers, bots, automatisations diverses.
+
+---
+
+## En ce moment
+
+▸ **Yibify** → alpha, scrobbler Windows, app Android early  
+▸ **IDF Map** → installateur + infra convois  
+▸ **Créa** → 3D, visuels, identités  
+▸ **Hardware** → Ryzen 9 3900X · 64 Go · RTX 2070
+
+---
 
 <p align="center">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  <i>Si tu es tombé ici par hasard : bienvenue dans l'atelier.</i><br>
+  <sub>— Felzow</sub>
 </p>
-
-<!--
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)--> 
-<!--![!RgbLine](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif) ![RgbLine](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)-->
-<h2 align="center" style="margin-top: 0px;">PC_Game_bench</h2>  <p align="center">
-        <a href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-9-3900x&memory=64gb&gpu=nvidia-geforce-rtx-2070&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/intel-core-i9-9900k/64gb/nvidia-geforce-rtx-2070/forum.png" alt= "nom de ton image"></a>
-</p>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![Chromedino](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
-<h2 align="center" style="margin-top: 0px;"> </h2>
-<!--
-**Felzow47/Felzow47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
