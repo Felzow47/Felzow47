@@ -13,7 +13,7 @@
 <h3 align="left">🚀 Projets</h3>
 
 <div align="center">
-<a href="https://yibify.app"><img src="LogoYibify.png" height="88" alt="Yibify" /></a><a href="https://idf-map.fr"><img src="idf_logo.png" height="88" alt="Île-de-France Map" /></a><a href="https://github.com/Felzow47/StarlinkStats"><img src="LogoStarlink.png" height="88" alt="StarlinkStats" /></a>
+<a href="https://yibify.app"><img src="LogoYibify.png" height="88" alt="Yibify" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://idf-map.fr"><img src="idf_logo.png" height="88" alt="Île-de-France Map" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Felzow47/StarlinkStats"><img src="LogoStarlink.png" height="88" alt="StarlinkStats" /></a>
 </div>
 
 ###
@@ -39,27 +39,3 @@
 <div align="center">
   <img src="icons/vscode-dark.svg" height="100" width="85" alt="VS Code" /><img width="12" /><img src="icons/blender-dark.svg" height="100" width="85" alt="Blender" /><img width="12" /><img src="icons/inkscape-dark.svg" height="100" width="85" alt="Inkscape" /><img width="12" /><img src="icons/batch-dark.svg" height="100" width="85" alt="Batch" /><img width="12" /><img src="icons/winscp-dark.svg" height="100" width="85" alt="WinSCP" />
 </div>
-
-###
-
-<h3 align="left">📊 Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Felzow47&show_icons=true&theme=dracula&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felzow47&theme=dracula&layout=compact&hide_border=false&border_radius=10&langs_count=6" height="165" alt="languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Felzow47&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&locale=fr" height="165" alt="streak" />
-</div>
-
-###
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felzow47&theme=react-dark&bg_color=141321&color=9b7ede&line=6272a4&point=bd93f9&area=true&hide_border=true" alt="activity graph" />
-
-###
-
-<p align="center"><sub>Restez efficace.</sub></p>
