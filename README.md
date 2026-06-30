@@ -1,91 +1,100 @@
-<h1 align="center">Felzow47</h1>
-<p align="center">
-  <sub>code · 3D · hardware · bots · scripts · « ça marchait hier »</sub>
-</p>
+<h1 align="center">hey 👋 Felzow47</h1>
 
-<br>
+###
 
-> Autodidacte depuis une dizaine d'années.  
-> Je ne me spécialise pas vraiment — je **touche à tout** jusqu'à ce que ça tienne debout.
-
----
-
-## Ce sur quoi je passe le plus de temps
-
-### Yibify — stats YouTube Music
-
-<p align="center">
-  <a href="https://yibify.app">
-    <img src="readme-brand.svg" width="220" alt="Yibify" />
-  </a>
-</p>
-
-Projet solo que je développe et maintiens. Une expérience type stats.fm, mais pour **YouTube Music** : dashboard web, historique d'écoutes, heatmaps, tops, **Yibify Wrapped**, import Takeout.
-
-- API et scrobbler **Windows** (Electron, SMTC) — relativement avancés
-- Site web et app **Android** (Kotlin / Compose) — encore en chantier, MVP scrobble
-- Stack : `Node.js · Next.js · PostgreSQL · Electron · Kotlin`
-
-→ [yibify.app](https://yibify.app) · alpha publique ouverte
-
----
-
-### Île-de-France Map
-
-<p align="center">
-  <a href="https://idf-map.fr">
-    <img src="idf_logo.png" width="280" alt="Île-de-France Map" />
-  </a>
-</p>
-
-Gros projet collaboratif autour d'une carte **Île-de-France** pour Euro Truck Simulator 2.  
-**Développeur**, **modérateur** et **animateur** depuis 3 ans.
-
-- **Installateur Windows** — assistant one-click (Python / CustomTkinter), 12 langues, build PyInstaller
-- **Infra & hébergement** — serveurs convois, panel PHP, bot Discord / WebSocket Node.js
-- **Modélisation 3D** — assets in-game (radars français, etc.)
-
-→ [Mon profil contributeur](https://idf-map.fr/credits?profil=491692233498689536) · [idf-map.fr](https://idf-map.fr)
-
----
-
-## Le reste du gloubilboulga
-
-Entre deux déploiements et trois `git push` ratés, tu me trouveras souvent en train de :
-
-- bricoler du **Python** pour automatiser ce qui m'énerve
-- coder des **bots Discord** et des petits outils perso
-- m'essayer au **mobile** (Kotlin / Android)
-- modéliser ou retoucher des trucs dans **Blender**, **Gimp**, **Inkscape**
-- bidouiller du **hardware** et mon setup PC
-- débugger un **nginx** à une heure où personne ne devrait être éveillé
-- jouer quand mon cerveau refuse d'ingérer une doc de plus
-
-Le fil rouge : j'aime **construire des trucs complets** — pas juste écrire 50 lignes et passer à autre chose.
+<h3 align="left">👨‍💻 À propos</h3>
 
 <p align="left">
-  <a href="https://github.com/Felzow47/StarlinkStats">
-    <img src="Vector.svg" width="48" height="48" alt="Starlink Widget" align="left" style="margin-right: 12px;" />
+  Autodidacte depuis une dizaine d'années. <b>Je touche à absolument tout, même hors programmation</b>, jusqu'à ce que ça tienne debout.<br><br>
+</p>
+
+###
+
+<h3 align="left">🚀 Projets</h3>
+
+<div align="center">
+  <a href="https://yibify.app">
+    <img src="LogoYibify.png" height="88" alt="Yibify" />
   </a>
-  <strong><a href="https://github.com/Felzow47/StarlinkStats">StarlinkStats</a></strong> — widget bureau always-on-top (Python / PyQt6) qui affiche l'état de l'antenne en temps réel via gRPC local.
-</p>
+  <img width="24" />
+  <a href="https://idf-map.fr">
+    <img src="idf_logo.png" height="88" alt="Île-de-France Map" />
+  </a>
+  <img width="24" />
+  <a href="https://github.com/Felzow47/StarlinkStats">
+    <img src="LogoStarlink.png" height="88" alt="StarlinkStats" />
+  </a>
+</div>
 
-<br>
+###
 
-Scripts perso à côté : mailers, bots, automatisations diverses.
+<h3 align="left">🛠 Stack</h3>
 
----
+<div align="center">
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/nodejs-dark.svg" height="60" width="60" alt="Node.js" /><br><sub>Node.js</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/nextjs-dark.svg" height="60" width="60" alt="Next.js" /><br><sub>Next.js</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/ts-dark.svg" height="60" width="60" alt="TypeScript" /><br><sub>TypeScript</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/tailwind-dark.svg" height="60" width="60" alt="Tailwind" /><br><sub>Tailwind</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/postgres-dark.svg" height="60" width="60" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/prisma-dark.svg" height="60" width="60" alt="Prisma" /><br><sub>Prisma</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/py-dark.svg" height="60" width="60" alt="Python" /><br><sub>Python</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/php-dark.svg" height="60" width="60" alt="PHP" /><br><sub>PHP</sub></span>
+</div>
 
-## En ce moment
+<div align="center">
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/kotlin-dark.svg" height="60" width="60" alt="Kotlin" /><br><sub>Kotlin</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/electron-dark.svg" height="60" width="60" alt="Electron" /><br><sub>Electron</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/docker-dark.svg" height="60" width="60" alt="Docker" /><br><sub>Docker</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/nginx-dark.svg" height="60" width="60" alt="Nginx" /><br><sub>Nginx</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/powershell-dark.svg" height="60" width="60" alt="PowerShell" /><br><sub>PowerShell</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/aws-dark.svg" height="60" width="60" alt="AWS" /><br><sub>AWS</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/cloudflare-dark.svg" height="60" width="60" alt="Cloudflare" /><br><sub>Cloudflare</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/oracle-dark.svg" height="60" width="60" alt="Oracle Cloud" /><br><sub>Oracle Cloud</sub></span>
+</div>
 
-▸ **Yibify** → alpha, scrobbler Windows, app Android early  
-▸ **IDF Map** → installateur + infra convois  
-▸ **Créa** → 3D, visuels, identités  
-▸ **Hardware** → Ryzen 9 3900X · 64 Go · RTX 2070
+###
 
----
+<h3 align="left">⚙️ OS & logiciels</h3>
 
-<p align="center">
-  <i>Si tu es tombé ici par hasard : bienvenue dans l'atelier.</i><br>
-  <sub>— Felzow</sub>
-</p>
+<div align="center">
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/windows-dark.svg" height="60" width="60" alt="Windows" /><br><sub>Windows</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/linux-dark.svg" height="60" width="60" alt="Linux" /><br><sub>Linux</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/android-dark.svg" height="60" width="60" alt="Android" /><br><sub>Android</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/apple-dark.svg" height="60" width="60" alt="macOS" /><br><sub>macOS</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/gimp-dark.svg" height="60" width="60" alt="GIMP" /><br><sub>GIMP</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/steam-dark.svg" height="60" width="60" alt="Steam" /><br><sub>Steam</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/sublime-dark.svg" height="60" width="60" alt="Sublime" /><br><sub>Sublime</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/notion-dark.svg" height="60" width="60" alt="Notion" /><br><sub>Notion</sub></span>
+</div>
+
+<div align="center">
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/vscode-dark.svg" height="60" width="60" alt="VS Code" /><br><sub>VS Code</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/blender-dark.svg" height="60" width="60" alt="Blender" /><br><sub>Blender</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/inkscape-dark.svg" height="60" width="60" alt="Inkscape" /><br><sub>Inkscape</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/batch-dark.svg" height="60" width="60" alt="Batch" /><br><sub>Batch</sub></span><img width="12" height="1" alt="" style="display: inline-block; vertical-align: top;" />
+  <span style="display: inline-block; width: 84px; text-align: center; vertical-align: top;"><img src="icons/winscp-dark.svg" height="60" width="60" alt="WinSCP" /><br><sub>WinSCP</sub></span>
+</div>
+
+###
+
+<h3 align="left">📊 Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felzow47&show_icons=true&theme=dracula&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" height="165" alt="stats" />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felzow47&theme=dracula&layout=compact&hide_border=false&border_radius=10&langs_count=6" height="165" alt="languages" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Felzow47&theme=dracula&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D&locale=fr" height="165" alt="streak" />
+</div>
+
+###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felzow47&theme=react-dark&bg_color=141321&color=9b7ede&line=6272a4&point=bd93f9&area=true&hide_border=true" alt="activity graph" />
+
+###
+
+<p align="center"><sub>Restez efficace.</sub></p>
