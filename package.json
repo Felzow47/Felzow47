@@ -1,0 +1,12 @@
+{
+  "name": "felzow47-readme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "add-icon-labels": "node scripts/add-icon-labels.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/inter": "^5.2.5",
+    "opentype.js": "^1.3.4"
+  }
+}
