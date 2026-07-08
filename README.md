@@ -13,7 +13,7 @@
 <h3 align="left">🚀 Projets</h3>
 
 <div align="center">
-<a href="https://yibify.app"><img src="LogoYibify.png" height="88" alt="Yibify" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://idf-map.fr"><img src="idf_logo.png" height="88" alt="Île-de-France Map" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Felzow47/StarlinkStats"><img src="LogoStarlink.png" height="88" alt="StarlinkStats" /></a>
+<a href="https://yibify.app"><img src="icons/LogoYibify.png" height="88" alt="Yibify" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://idf-map.fr"><img src="icons/idf_logo.png" height="88" alt="Île-de-France Map" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Felzow47/StarlinkStats"><img src="icons/LogoStarlink.png" height="88" alt="StarlinkStats" /></a>
 </div>
 
 ###
