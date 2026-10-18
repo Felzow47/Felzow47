@@ -1,4 +1,6 @@
-<h1 align="center">hey 👋 Felzow47</h1>
+<div align="center">
+  <img src="icons/girouette.gif" alt="girouette" />
+</div>
 
 ###
 
